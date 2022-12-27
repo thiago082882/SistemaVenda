@@ -1,0 +1,8 @@
+Modelo\Cliente.class
+Modelo\Produto.class
+Controlador\ControladorValidar.class
+Modelo\ClienteDAO.class
+Modelo\Funcionario.class
+Controlador\Controlador.class
+config\Conexion.class
+Modelo\FuncionarioDAO.class
